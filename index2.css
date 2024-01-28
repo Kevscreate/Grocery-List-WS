@@ -1,0 +1,50 @@
+.section1 {
+    padding: auto;
+    margin-bottom: 20px;
+    background-color: white;
+    border: 5px solid black;
+    font-size: 50px;
+    width: 30vw;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.box1 {
+    padding: auto;
+    background-color: rgb(174, 170, 170);
+    border: 5px solid black;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 20vw;
+    height: 40vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.box2 {
+    padding: auto;
+    background-color:rgb(174, 170, 170);
+    border: 5px solid black;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 20vw;
+    height: 40vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;  
+}
+
+.align{
+    display: flex;
+}
+
+.align2{
+    display: flex;
+}
+
+.img{
+    border: 3px solid black; 
+    width: auto;
+    height: 288px;
+    
+}
+
